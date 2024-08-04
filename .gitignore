@@ -40,3 +40,4 @@ build/
 .idea
 
 src/main/java/org/example/lox/Expr.java
+src/main/java/org/example/lox/Stmt.java
