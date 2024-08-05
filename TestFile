@@ -17,3 +17,7 @@ var c = "global c";
 print a;
 print b;
 print c;
+
+if (a) print a;
+if (1) print 1;
+if (false == 0) print 0;
